@@ -1,6 +1,6 @@
 documentation_complete: true
 
-prodtype: alinux3,fedora,rhel7,rhel8,rhel9,sle12,sle15,ubuntu2004,ubuntu2204
+prodtype: fedora,rhel7,rhel8,rhel9,sle12,sle15,ubuntu2004,ubuntu2204
 
 title: 'Ensure that chronyd is running under chrony user account'
 
@@ -47,7 +47,6 @@ identifiers:
 
 references:
     ccn@rhel9: A.3.SEC-RHEL3
-    cis@alinux3: 2.2.1.2
     cis@rhel7: 2.1.3
     cis@rhel8: 2.1.3
     cis@rhel9: 2.1.2

@@ -1,6 +1,6 @@
 documentation_complete: true
 
-prodtype: alinux3,anolis23,anolis8,fedora,ol7,ol8,openembedded,rhel7,rhel8,rhel9,rhv4,sle12,sle15,ubuntu2004,ubuntu2204
+prodtype: anolis23,anolis8,fedora,ol7,ol8,openembedded,rhel7,rhel8,rhel9,rhv4,sle12,sle15,ubuntu2004,ubuntu2204
 
 title: 'Modify the System Message of the Day Banner'
 
@@ -57,7 +57,6 @@ identifiers:
 
 references:
     ccn@rhel9: A.11.SEC-RHEL4
-    cis@alinux3: 1.2.1
     cis@rhel7: 1.6.1
     cis@rhel8: 1.7.1
     cis@rhel9: 1.7.1

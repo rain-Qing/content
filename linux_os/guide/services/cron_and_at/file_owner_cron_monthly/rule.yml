@@ -1,6 +1,6 @@
 documentation_complete: true
 
-prodtype: alinux3,anolis23,anolis8,fedora,ol9,openembedded,rhel7,rhel8,rhel9,rhv4,sle12,sle15,ubuntu2004,ubuntu2204
+prodtype: anolis23,anolis8,fedora,ol9,openembedded,rhel7,rhel8,rhel9,rhv4,sle12,sle15,ubuntu2004,ubuntu2204
 
 title: 'Verify Owner on cron.monthly'
 
@@ -23,7 +23,6 @@ identifiers:
 
 references:
     cis-csc: 12,13,14,15,16,18,3,5
-    cis@alinux3: 5.1.6
     cis@rhel7: 4.1.1.6
     cis@rhel8: 5.1.6
     cis@rhel9: 5.1.6

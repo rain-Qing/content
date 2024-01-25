@@ -1,6 +1,6 @@
 documentation_complete: true
 
-prodtype: alinux3,anolis23,anolis8,fedora,openembedded,rhel8,rhel9,sle12,sle15,ubuntu2004,ubuntu2204
+prodtype: anolis23,anolis8,fedora,openembedded,rhel8,rhel9,sle12,sle15,ubuntu2004,ubuntu2204
 
 title: 'Verify Group Who Owns /etc/at.allow file'
 
@@ -22,7 +22,6 @@ identifiers:
     cce@sle15: CCE-91315-2
 
 references:
-    cis@alinux3: 5.1.8
     cis@rhel7: 4.1.2.1
     cis@rhel8: 5.1.9
     cis@rhel9: 5.1.9

@@ -1,6 +1,6 @@
 documentation_complete: true
 
-prodtype: alinux3,fedora,rhel7,rhel8,rhel9,sle15,ubuntu2004,ubuntu2204
+prodtype: fedora,rhel7,rhel8,rhel9,sle15,ubuntu2004,ubuntu2204
 
 title: 'Verify nftables Service is Disabled'
 
@@ -24,7 +24,6 @@ identifiers:
 
 references:
     ccn@rhel9: A.8.SEC-RHEL3
-    cis@alinux3: 3.4.2.3
     cis@rhel8: 3.4.1.3
     cis@rhel9: 3.4.1.2
     cis@sle15: 3.5.1.2
