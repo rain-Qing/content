@@ -1,6 +1,6 @@
 documentation_complete: true
 
-prodtype: alinux2,alinux3,anolis23,anolis8,fedora,ol7,ol8,ol9,openembedded,rhel7,rhel8,rhel9,rhv4
+prodtype: alinux3,anolis23,anolis8,fedora,ol7,ol8,ol9,openembedded,rhel7,rhel8,rhel9,rhv4
 
 title: 'Enable cron Service'
 
@@ -23,7 +23,6 @@ identifiers:
 
 references:
     cis-csc: 11,14,3,9
-    cis@alinux2: 5.1.2
     cis@alinux3: 5.1.1
     cis@rhel7: 4.1.1.1
     cis@rhel8: 5.1.1

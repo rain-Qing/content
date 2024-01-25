@@ -1,6 +1,6 @@
 documentation_complete: true
 
-prodtype: alinux2,alinux3,anolis23,anolis8,openembedded,rhel7,rhel8,rhel9
+prodtype: alinux3,anolis23,anolis8,openembedded,rhel7,rhel8,rhel9
 
 title: 'Disable ypserv Service'
 
@@ -22,7 +22,6 @@ identifiers:
     cce@rhel9: CCE-86122-9
 
 references:
-    cis@alinux2: 2.1.16
     cis@alinux3: 2.2.17
     cis@rhel7: 2.2.10
     cis@rhel8: 2.2.10
